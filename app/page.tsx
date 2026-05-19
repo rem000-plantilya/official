@@ -244,7 +244,7 @@ export default function LandingPage() {
               </div>
               <div className="flex items-start gap-3">
                 <MapPin className="w-4 h-4 text-accent shrink-0 mt-0.5" />
-                <span className="opacity-80">Ph4 Bk97 Lt20, Philippines</span>
+                <span className="opacity-80">Ph4 Bk97 Lt20 SpringTown Villas, Tanza Cavite, Philippines</span>
               </div>
             </div>
           </div>
